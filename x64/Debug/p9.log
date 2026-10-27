@@ -1,0 +1,13 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Insiders\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(550,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Practica 7.vcxproj, Practica 7 Reporte.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  P9,1.cpp
+C:\Practicas Compu Grafica\P9.1\Reporte 9.1\p9\p9\Window.h(12,36): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'P9,1.cpp')
+  
+C:\Practicas Compu Grafica\P9.1\Reporte 9.1\p9\p9\Window.h(13,37): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'P9,1.cpp')
+  
+C:\Practicas Compu Grafica\P9.1\Reporte 9.1\p9\p9\P9,1.cpp(146,24): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Practicas Compu Grafica\P9.1\Reporte 9.1\p9\p9\P9,1.cpp(731,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Practicas Compu Grafica\P9.1\Reporte 9.1\p9\p9\P9,1.cpp(733,33): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  p9.vcxproj -> C:\Practicas Compu Grafica\P9.1\Reporte 9.1\p9\x64\Debug\p9.exe
